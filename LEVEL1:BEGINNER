@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Responsive Website</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About This Website</h2>
+            <p>This is a simple HTML page created as part of a front-end development task. It demonstrates basic HTML structure and content placement.</p>
+        </section>
+        <section>
+            <h2>Image Section</h2>
+            <p>Below is an example image included to showcase how images are embedded in HTML.</p>
+            <img src="file:///C:/Users/User/Downloads/peakpx%20(2).jpg" alt="An example image" style="max-width: 100%; height: auto;">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Responsive Website</p>
+    </footer>
+</body>
+</html>
